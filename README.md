@@ -1,3 +1,5 @@
+# React Boilerplate
+
 ### Getting Started
 ```
 > clone it
